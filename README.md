@@ -22,7 +22,7 @@
 
 ## [Question Marks](https://github.com/mkaraa/Java-Challenges/blob/main/src/main/java/org/example/QuestionMarks.java)
 
-## [Tree Constructor](https://github.com/mkaraa/Java-Challenges/blob/main/src/main/java/org/example/TreeConsturtor.java)
+## [Tree Constructor](https://github.com/mkaraa/Java-Challenges/blob/main/src/main/java/org/example/TreeConstructor.java)
 
 ## [Two Sum Indices](https://github.com/mkaraa/Java-Challenges/blob/main/src/main/java/org/example/TwoSumIndices.java)
 
